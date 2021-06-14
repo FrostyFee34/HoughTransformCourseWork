@@ -1,0 +1,12 @@
+C:\Aprogramming\University\AADS\CourseWork\HoughTransformApp\obj\Debug\HoughTransformApp.csprojAssemblyReference.cache
+C:\Aprogramming\University\AADS\CourseWork\HoughTransformApp\obj\Debug\HoughTransformApp.HoughTransformForm.resources
+C:\Aprogramming\University\AADS\CourseWork\HoughTransformApp\obj\Debug\HoughTransformApp.Properties.Resources.resources
+C:\Aprogramming\University\AADS\CourseWork\HoughTransformApp\obj\Debug\HoughTransformApp.csproj.GenerateResource.cache
+C:\Aprogramming\University\AADS\CourseWork\HoughTransformApp\obj\Debug\HoughTransformApp.csproj.CoreCompileInputs.cache
+C:\Aprogramming\University\AADS\CourseWork\HoughTransformApp\bin\Debug\HoughTransformApp.exe.config
+C:\Aprogramming\University\AADS\CourseWork\HoughTransformApp\bin\Debug\HoughTransformApp.exe
+C:\Aprogramming\University\AADS\CourseWork\HoughTransformApp\bin\Debug\HoughTransformApp.pdb
+C:\Aprogramming\University\AADS\CourseWork\HoughTransformApp\obj\Debug\HoughTransformApp.exe
+C:\Aprogramming\University\AADS\CourseWork\HoughTransformApp\obj\Debug\HoughTransformApp.pdb
+C:\Aprogramming\University\AADS\CourseWork\HoughTransformApp\bin\Debug\System.Drawing.Common.dll
+C:\Aprogramming\University\AADS\CourseWork\HoughTransformApp\obj\Debug\HoughTransformApp.csproj.CopyComplete
